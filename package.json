@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/AmazinG_8/",
+    "build": "vite build --base=/js_100_Iryna-Pavlyk/",
     "preview": "vite preview"
   },
   "devDependencies": {
